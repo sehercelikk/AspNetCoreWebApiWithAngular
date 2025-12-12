@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Blog.Application/Blog.Application.csproj" Id="c7b40127-93e9-433e-a0fe-fb325fc341dd" />
+    <Project Path="Core/Blog.Domain/Blog.Domain.csproj" Id="2d206a3b-571f-4741-86c6-af06c48216e9" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/Blog.Infrastructure/Blog.Infrastructure.csproj" Id="f8ab2601-6ebc-4808-a168-c12d4febca29" />
+    <Project Path="Infrastructure/Blog.Persistance/Blog.Persistance.csproj" Id="339e2878-d191-4393-8673-8de0eb77e3f0" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Presentation/Blog.WebApi/Blog.WebApi.csproj" Id="8e859f42-d96d-4363-b351-a4f5ecba4c59" />
+  </Folder>
+</Solution>
