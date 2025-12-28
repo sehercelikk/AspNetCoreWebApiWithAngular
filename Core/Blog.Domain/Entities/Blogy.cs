@@ -2,7 +2,7 @@
 
 namespace Blog.Domain.Entities;
 
-public class Blog : BaseEntity
+public class Blogy : BaseEntity
 {
     public string Title { get; set; }
     public string CoverImage { get; set; }
